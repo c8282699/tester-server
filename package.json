@@ -1,0 +1,20 @@
+{
+  "name": "coding-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c8282699/tester-server.git"
+  },
+  "author": "Yuze Zhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c8282699/tester-server/issues"
+  },
+  "homepage": "https://github.com/c8282699/tester-server#readme"
+}
